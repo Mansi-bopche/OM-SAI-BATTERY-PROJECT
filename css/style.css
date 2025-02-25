@@ -311,6 +311,10 @@
     transition: .5s;
 }
 
+#para {
+    color: #f1cb16;
+}
+
 
 /*** Testimonial ***/
 .testimonial-carousel::before {
