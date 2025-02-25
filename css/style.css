@@ -22,7 +22,9 @@
     z-index: 99;
 }
 
-
+#inlineR{
+    color: #f1cb16;
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -243,7 +245,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(/img/banner\ car-1.jpg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/banner\ car-1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -441,3 +443,9 @@
     padding-right: 0;
     border-right: none;
 }
+
+
+#Battery_product{
+    color: #f1cb16;
+}
+
