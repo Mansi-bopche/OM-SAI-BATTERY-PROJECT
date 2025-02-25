@@ -22,6 +22,11 @@
     z-index: 99;
 }
 
+#inlineC
+{
+    color:#f1cb16;
+}
+
 
 /*** Spinner ***/
 #spinner {
