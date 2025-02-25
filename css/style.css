@@ -22,7 +22,9 @@
     z-index: 99;
 }
 
-
+#inlineR{
+    color: #f1cb16;
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -440,4 +442,7 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+#Battery_product{
+    color: #f1cb16;
 }
